@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590167695 source:c:\users\kiril\documents\1Прога1\2sem\task 4\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+
+1590179961 source:c:\users\kiril\downloads\stop\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+
